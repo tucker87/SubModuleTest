@@ -1,0 +1,3 @@
+[submodule "submoduletestinner"]
+	path = submoduletestinner
+	url = https://github.com/tucker87/submoduletestinner.git
